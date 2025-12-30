@@ -1,0 +1,55 @@
+{
+  "stats": {
+    "totalCourses": 47,
+    "activeStudents": 6649,
+    "avgRating": 4.7,
+    "totalRevenue": 8750000
+  },
+  "courses": [
+    {
+      "id": 101,
+      "title": "JavaScript Fundamentals",
+      "instructor": "Sarah Johnson",
+      "category": "Programming",
+      "level": "Beginner",
+      "duration": "8 weeks",
+      "enrolled": 1247,
+      "capacity": 1500,
+      "rating": 4.7,
+      "price": 2999,
+      "status": "active",
+      "startDate": "2025-01-15",
+      "completion": 68
+    },
+    {
+      "id": 102,
+      "title": "React Advanced Patterns",
+      "instructor": "Michael Chen",
+      "category": "Programming",
+      "level": "Advanced",
+      "duration": "10 weeks",
+      "enrolled": 856,
+      "capacity": 1000,
+      "rating": 4.9,
+      "price": 4999,
+      "status": "active",
+      "startDate": "2025-02-01",
+      "completion": 45
+    },
+    {
+      "id": 103,
+      "title": "UI/UX Design Principles",
+      "instructor": "Emily Rodriguez",
+      "category": "Design",
+      "level": "Intermediate",
+      "duration": "6 weeks",
+      "enrolled": 2103,
+      "capacity": 2500,
+      "rating": 4.8,
+      "price": 3499,
+      "status": "active",
+      "startDate": "2025-01-20",
+      "completion": 82
+    }
+  ]
+}

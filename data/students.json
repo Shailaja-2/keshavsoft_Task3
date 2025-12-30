@@ -1,0 +1,31 @@
+{
+  "recentEnrollments": [
+    {
+      "id": 1,
+      "studentName": "Rahul Sharma",
+      "email": "rahul.s@email.com",
+      "course": "JavaScript Fundamentals",
+      "enrolledDate": "2025-12-28",
+      "progress": 15,
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "studentName": "Priya Patel",
+      "email": "priya.p@email.com",
+      "course": "React Advanced Patterns",
+      "enrolledDate": "2025-12-27",
+      "progress": 8,
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "studentName": "Amit Verma",
+      "email": "amit.v@email.com",
+      "course": "UI/UX Design Principles",
+      "enrolledDate": "2025-12-26",
+      "progress": 22,
+      "status": "active"
+    }
+  ]
+}
