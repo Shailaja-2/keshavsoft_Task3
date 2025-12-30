@@ -1,0 +1,53 @@
+# SkillHub Academy Dashboard
+
+A customized admin dashboard for managing online courses, students, and analytics. Built on top of the Mazer Bootstrap 5 template.
+
+## 📌 Project Overview
+
+This project transforms the Mazer admin template into a functional e-learning platform dashboard. It demonstrates front-end development skills including UI customization, data integration, and responsive design.
+
+**Original Template**: [Mazer by Zuramai](https://github.com/zuramai/mazer)
+
+## 🎯 Customizations Made
+
+### 1. UI/UX Changes
+- ✅ Rebranded dashboard to "SkillHub Academy"
+- ✅ Updated sidebar menu with relevant sections (Courses, Students, Analytics)
+- ✅ Redesigned statistics cards for educational metrics
+- ✅ Created custom course card layout with progress indicators
+- ✅ Added search and filter functionality for courses
+
+### 2. Data Integration
+- ✅ Created `courses.json` with realistic course data
+- ✅ Created `students.json` with enrollment information
+
+### 3. Technical Implementation
+- ✅ Custom JavaScript module (`dashboard-custom.js`)
+- ✅ ES6+ features (arrow functions, async/await, template literals)
+- ✅ Helper functions for formatting (currency, dates)
+
+MAZER/
+├── data/
+│   ├── courses.json          ✅
+│   └── students.json         ✅
+├── src/
+│   ├── index.html            ✅ Modified (template)
+│   └── assets/
+│       └── static/
+│           └── js/
+│               └── dashboard-custom.js  ✅ Created
+├── package.json
+└── vite.config.js
+
+## 🛠️ Technologies Used
+
+- **HTML5**: Semantic markup
+- **CSS3**: Bootstrap 5 + Custom styles
+- **JavaScript (ES6+)**: Vanilla JS with modern features
+- **Bootstrap 5**: UI framework
+
+## 📝 What I Learned
+
+- Working with existing codebases and templates
+- Data-driven UI development
+- Bootstrap 5 customization techniques
